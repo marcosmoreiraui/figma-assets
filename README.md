@@ -23,4 +23,3 @@ Your SVGs will be generated in `build/svg` folder
 
 1. `npm install`
 2. `npm run build`
-# figma-assets
